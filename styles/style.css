@@ -1,0 +1,20 @@
+
+#container {
+	padding: 25px;
+}
+
+#sidebar {
+	background-color: #cdcdcd;
+	border-radius: 60px;
+}
+
+button {
+	width: 150px;
+	height: 80px;
+	border-radius: 60px;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+}
